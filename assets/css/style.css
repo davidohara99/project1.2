@@ -52,3 +52,34 @@ img {
 footer {
     background-color: #6e6e6e;
 }
+#socials {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+  }
+  #socials i {
+    font-size: 160%;
+    padding: 5%;
+    color: #ffffff;
+  }
+  #contact-box {
+    background-color: #6e6e6e;
+  }
+  .text-center {
+    text-align: center;
+    font-size: 2rem;
+  }
+  #times-box {
+    background-color: #ffffff;
+    width: 30%;
+    text-align: center;
+    border-radius: 15px;
+    margin-left: 660px;
+    position: relative;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    color: black;
+  }
+  
